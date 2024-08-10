@@ -6,6 +6,10 @@
   ## Description
   This is a command line project that will help the user create a vehicle using node.js and typescript
 
+  ## Video Walkthrough Link
+
+  https://drive.google.com/file/d/1c3E7na1-K5b0k8ij5azjee9MXMOuJ3Mv/view?usp=sharing
+
   ## Table of Contents
   - [Installation](#installation)
   - [Usage](#usage)
